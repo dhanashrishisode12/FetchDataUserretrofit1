@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FetchDataUserretrofit1</string>
+    <string-array name="services"></string-array>
+
+</resources>
